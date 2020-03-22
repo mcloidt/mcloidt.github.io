@@ -1,0 +1,60 @@
+body {
+    background-image: repeating-linear-gradient(to right, black, white)
+}
+
+english {
+    font-family: "playfair display", "serif";
+    text-align: left;
+    font-size: 35px;
+    padding: 30px 400px 30px 150px;
+    color: white;
+    display: inline;
+    float: left;
+
+    column-width: 50%;
+}
+
+French {
+    font-family: "montserrat display""sans-serif";
+    text-align: right;
+    font-size: 35px;
+    padding: 30px 150px 30px 300px;
+    color: black;
+    display: inline;
+    float: right;
+    column-width: 50%;
+}
+
+Frenchtit {
+    font-family: "montserrat display""sans-serif";
+    text-align: right;
+    font-size: 55px;
+    padding: 150px 150px 150px 800px;
+    color: black;
+    display: inline;
+    float: right;
+    column-width: 50%;
+    text-decoration: none;
+}
+
+englishtit {
+    font-family: "playfair display", "serif";
+    text-align: left;
+    font-size: 55px;
+    padding: 150px 500px 150px 150px;
+    color: white;
+    display: inline;
+    float: left;
+    column-width: 50%;
+}
+
+name {
+    font-family: "montserrat display""sans-serif";
+    text-align: right;
+    font-size: 75px;
+    padding: 150px 150px 150px 800px;
+    color: black;
+    display: inline;
+    float: right;
+    column-width: 50%;
+}
