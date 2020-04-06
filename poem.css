@@ -1,6 +1,6 @@
 body {
     background-image: repeating-linear-gradient(to right, black, white)
-    iframe: overflow;
+    position: fixed;
 }
 
 english {
