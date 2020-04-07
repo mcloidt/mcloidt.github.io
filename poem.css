@@ -1,45 +1,6 @@
 body {
     background-image: repeating-linear-gradient(to right, black, white)
-         <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1024 768" style="enable-background:new 0 0 1024 768;" xml:space="preserve">
-        <style type="text/css">
-            .st0 {
-                clip-path: url(#SVGID_2_);
-            }
-
-            .st1 {
-                clip-path: url(#SVGID_2_);
-                fill: none;
-            }
-
-            .st2 {
-                clip-path: url(#SVGID_2_);
-                fill: none;
-                stroke: #000000;
-                stroke-miterlimit: 10;
-            }
-   </style>
-        <g>
-            <defs>
-                <rect id="SVGID_1_" width="1024" height="768" />
-            </defs>
-            <clipPath id="SVGID_2_">
-                <use xlink:href="#SVGID_1_" style="overflow:visible;" />
-            </clipPath>
-            <path class="st0" d="M0,62c0,0,39-26,92-37c71.17-14.77,205,18,238,124c19.55,62.81-25,70-25,70s6,18,2,29s-6,18-5,25
-		s10.88,37.75,17,43c7,6,16,16,13,32s-29,10-29,13s3.36,18.14,8,20c5,2-14,16-14,16s15,14,8,19s-15,7-16,16s5,37-7,47
-		c-7.72,6.43-88-10-93-5c-13.58,13.58-35,61-53,82s-44,66-44,66s22,21,24,28s-10,19-12,29s1,89,1,89H-2L0,62z" />
-            <path class="st1" d="M843,768c0,0,38-53,38-57s-13-63,5-77s38-19,38-24s1-43-7-59s-26-57-37-58s-16,2-25,5s-82.5,25.5-83.5,5.5
-		s2-38-1-38s-18,4-18-8c0-16.28,31-26,31-26s-27.81,2.46-36-3c-9-6-2-16,0-20c0,0,2.91-11.16-10-13c-7-1-37-12-26-29
-		c8.59-13.27,41-55,36-71s-13.61-16.64-16-31c-4-24,5-77,5-77s-3-27,3-39s26-32,48-47s35-25,90-44s58-21,91-21s56,16,56,16v716
-		L843,768z" />
-            <path class="st2" d="M843,768c0,0,38-53,38-57s-13-63,5-77s38-19,38-24s1-43-7-59s-26-57-37-58s-16,2-25,5s-82.5,25.5-83.5,5.5
-		s2-38-1-38s-18,4-18-8c0-16.28,31-26,31-26s-27.81,2.46-36-3c-9-6-2-16,0-20c0,0,2.91-11.16-10-13c-7-1-37-12-26-29
-		c8.59-13.27,41-55,36-71s-13.61-16.64-16-31c-4-24,5-77,5-77s-3-27,3-39s26-32,48-47s35-25,90-44s58-21,91-21s56,16,56,16v716
-		L843,768z" />
-        </g>
-    </svg>
-    position: fixed;
-}
+ 
 
 english {
     font-family: "playfair display", "serif";
