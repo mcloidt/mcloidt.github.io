@@ -1,6 +1,10 @@
-img {
-    width:50%;
-    height: auto;
-    position: center;
-    padding: 20;
+  h1{
+    text-align: center;
+    color: black;
+    font-family: helvetica neue;
+    padding: 75px;
+    font-size: 75px;
+}
+style{
+    text-decoration: none;
 }
