@@ -1,4 +1,7 @@
-  h1{
+body{ 
+      background-color:#ffae45;
+}
+h1{
     text-align: center;
     color: black;
     font-family: helvetica neue;
