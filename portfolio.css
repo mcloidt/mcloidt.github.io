@@ -8,6 +8,13 @@ h1{
     padding: 75px;
     font-size: 75px;
 }
+h2{
+    text-align: center;
+    color: black;
+    font-family: helvetica neue;
+    padding: 75px;
+    font-size: 100px;
+}
 style{
     text-decoration: none
 }
