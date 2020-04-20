@@ -12,6 +12,13 @@
     padding: 15px;
     font-size: 15px;
 }
+  h3{
+    text-align: centered;
+    color: black;
+    font-family: helvetica neue;
+    padding: 100px;
+    font-size: 75px;
+}
 style{
     text-decoration: none;
 }
