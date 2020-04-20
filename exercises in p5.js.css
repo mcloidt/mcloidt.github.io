@@ -5,6 +5,13 @@
     padding: 75px;
     font-size: 75px;
 }
+  h1{
+    text-align: centered;
+    color: black;
+    font-family: helvetica neue;
+    padding: 15px;
+    font-size: 15px;
+}
 style{
     text-decoration: none;
 }
