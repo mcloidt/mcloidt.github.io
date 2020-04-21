@@ -28,3 +28,9 @@ iframe{
     padding: 75px;
     align-content: centered;
 }
+img {
+  width: 500px;
+  height: auto;
+  padding: 75px;
+  align-content: centered;
+}
