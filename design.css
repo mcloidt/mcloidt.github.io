@@ -1,5 +1,6 @@
 img scr{
   align-content: centered;
-   width: auto;
+  width: auto;
   height: 500px;
+  display: block;
 }
