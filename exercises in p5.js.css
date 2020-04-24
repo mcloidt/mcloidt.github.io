@@ -1,12 +1,15 @@
-  h1{
-    text-align: centered;
+
+a:link, a:visited{
+    text-align: center;
     color: black;
-    font-family: helvetica neue;
+    font-family: helvetica neue bold;
     padding: 75px;
     font-size: 75px;
-     display: block;
-  margin-left: auto;
-  margin-right: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-decoration: none;
+}
 }
   h2{
     text-align: centered;
