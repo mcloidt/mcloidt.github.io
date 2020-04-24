@@ -2,7 +2,7 @@
 a:link{
     text-align: center;
     color: black;
-    font-family: helvetica neue bold;
+    font-family: helvetica neue;
     padding: 75px;
     font-size: 75px;
     display: block;
@@ -33,7 +33,7 @@ a:link{
 }
 iframe{
     width:1000px;
-    height: 900px;
+    height: 600px;
     display: block;
     margin-left: auto;
     margin-right: auto;
