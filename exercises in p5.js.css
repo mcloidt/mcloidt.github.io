@@ -27,6 +27,8 @@ iframe{
     height: 900px;
     padding: 75px;
     display: block;
+    margin-left: auto;
+   margin-right: auto;
 
 }
 img {
@@ -34,6 +36,8 @@ img {
   height: auto;
   padding: 75px;
   align-content: centered;
-   display: block;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 
 }
