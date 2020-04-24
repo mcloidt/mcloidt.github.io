@@ -1,6 +1,9 @@
-img scr{
-    display: block;
-  align-content: centered;
-  width: 500px;
+img {
+  width: 700px;
   height: auto;
+  padding: 75px;
+  align-content: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
