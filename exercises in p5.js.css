@@ -10,16 +10,16 @@ a:link, a:visited{
     margin-right: auto;
     text-decoration: none;
 }
-}
+
   h2{
     text-align: centered;
     color: black;
     font-family: helvetica neue;
     padding: 15px;
     font-size: 15px;
-     display: block;
-  margin-left: auto;
-  margin-right: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
   h3{
     text-align: centered;
@@ -27,20 +27,16 @@ a:link, a:visited{
     font-family: helvetica neue;
     padding: 75px;
     font-size: 125px;
-     display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-style{
-    text-decoration: none;
-}
-iframe{
-    width:100px;
-    height: 900px;
-    padding: 75px;
     display: block;
     margin-left: auto;
-   margin-right: auto;
+    margin-right: auto;
+
+iframe{
+    width:1000px;
+    height: 900px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     align-content: centered;
 
 
