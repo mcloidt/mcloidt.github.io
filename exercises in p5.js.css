@@ -9,6 +9,7 @@ a:link{
     margin-left: auto;
     margin-right: auto;
     text-decoration: none;
+    display: inline-block;
 }
 
   h2{
