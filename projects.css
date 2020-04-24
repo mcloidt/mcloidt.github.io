@@ -2,15 +2,14 @@ body{
     background-color: #ff70d7;
 }
 a:link, a:visited{
-    text-align: centered;
-    color: black;
+    text-align: center;
     font-family: helvetica neue;
-    padding: 75px;
-    font-size: 75px;
-    display: block;
     margin-left: auto;
     margin-right: auto;
+    font-size: 75px;
+    padding: 75px;
     text-decoration: none;
+    display: block;
 }
 h2{
     text-align: centered;
