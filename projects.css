@@ -2,7 +2,7 @@ body{
     background-color: #ff70d7;
 }
 a:link, a:visited{
-    text-align: center;
+    text-align: centered;
     color: black;
     font-family: helvetica neue;
     padding: 75px;
@@ -13,7 +13,7 @@ a:link, a:visited{
     text-decoration: none;
 }
 h2{
-    text-align: center;
+    text-align: centered;
     color: black;
     font-family: helvetica neue;
     padding: 75px;
