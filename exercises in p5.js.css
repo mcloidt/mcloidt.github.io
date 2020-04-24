@@ -4,6 +4,9 @@
     font-family: helvetica neue;
     padding: 75px;
     font-size: 75px;
+     display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
   h2{
     text-align: centered;
@@ -11,6 +14,9 @@
     font-family: helvetica neue;
     padding: 15px;
     font-size: 15px;
+     display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
   h3{
     text-align: centered;
@@ -18,6 +24,9 @@
     font-family: helvetica neue;
     padding: 75px;
     font-size: 125px;
+     display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 style{
     text-decoration: none;
