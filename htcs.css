@@ -1,13 +1,14 @@
 body{ 
     background-color: #ffae45;
 } 
-h1{
+a:link{
     text-align: center;
     color: black;
     font-family: helvetica neue;
     padding: 75px;
     font-size: 75px;
-}
-style{
-    text-decoration: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-decoration: none
 }
