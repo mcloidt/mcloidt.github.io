@@ -42,7 +42,17 @@ a:link{
     margin-left: auto;
     margin-right: auto;
 }
-iframe{
+iframe1{
+    width: 900px;
+    height: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: centered;
+}
+iframe2{
+     width: 500px;
+    height: 500px;
     display: block;
     margin-left: auto;
     margin-right: auto;
