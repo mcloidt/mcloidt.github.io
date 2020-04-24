@@ -35,12 +35,14 @@ style{
     text-decoration: none;
 }
 iframe{
-    width:1000px;
+    width:100px;
     height: 900px;
     padding: 75px;
     display: block;
     margin-left: auto;
    margin-right: auto;
+    align-content: centered;
+
 
 }
 img {
