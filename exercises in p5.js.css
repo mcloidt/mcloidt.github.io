@@ -26,11 +26,14 @@ iframe{
     width:1000px;
     height: 900px;
     padding: 75px;
-    align-content: centered;
+    display: block;
+
 }
 img {
   width: 500px;
   height: auto;
   padding: 75px;
   align-content: centered;
+   display: block;
+
 }
