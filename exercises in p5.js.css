@@ -42,22 +42,14 @@ a:link{
     margin-left: auto;
     margin-right: auto;
 }
-iframe1{
-    width: 900px;
+iframe{
+    width: 100px;
     height: 600px;
     display: block;
     margin-left: auto;
     margin-right: auto;
     align-content: centered;
-}
-iframe2{
-     width: 500px;
-    height: 500px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    align-content: centered;
-}
+
 img {
   width: 700px;
   height: auto;
