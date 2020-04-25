@@ -1,15 +1,14 @@
 
 a:link{
-    text-align: center;
     color: black;
     font-family: helvetica neue;
     padding: 75px;
     font-size: 75px;
-    display: block;
     margin-left: auto;
     margin-right: auto;
     text-decoration: none;
     display: inline-block;
+    text-align: center;
 }
 
   h2{
