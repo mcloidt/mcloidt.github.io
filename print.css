@@ -13,10 +13,10 @@ a:link{
     font-family: helvetica neue;
     padding: 75px;
     font-size: 75px;
-    display: inline-block;
+    display: block;
     margin-left: auto;
     margin-right: auto;
-    text-decoration: none;
+    text-decoration: none
 }
 h1 {
     text-align: center;
