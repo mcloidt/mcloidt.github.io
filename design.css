@@ -18,3 +18,13 @@ a:link{
     margin-right: auto;
     text-decoration: none;
 }
+h1{
+    text-align: center;
+    color: black;
+    font-family: helvetica neue;
+    padding: 75px;
+    font-size: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    text-decoration: none;
+}
