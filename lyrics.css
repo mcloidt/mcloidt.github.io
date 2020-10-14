@@ -1,5 +1,12 @@
+body{background-color: #FFC500
+}
 h1{ color: #0032FF;
     font-family: font-family: 'Roboto Slab', serif;
     align-content: center;
-    background-color: #FFC500
+      padding: 75px;
+    font-size: 75px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-decoration: none
 }
