@@ -18,8 +18,11 @@ h3{ color: #FF6AD4;
     font-size: 100px;
     margin: 125px;
 }
-a:link { 
+a:visited { 
     font-size: 75px;
     margin: 100;
     padding: 100px;
+    text-align: left;
+    text-decoration: none;
 }
+
