@@ -4,18 +4,21 @@ body{
 h1{ color: #0032FF;
     font-family: font-family: "Comic Sans MS", cursive, sans-serif;
     padding: 75px;
-    font-size: 75px;
+   
     margin: 75;
 }
 h2{ color: #44c43d;
     font-family: font-family:'Indie Flower', cursive;
     padding: 75px;
     font-size: 100px;
-    margin: 100;
+    
 }
 h3{ color: #FF6AD4;
     font-family: comic-sans;
     font-size: 100px;
     margin: 125px;
-h4{ 
+}
+a:link { 
+    margin: 100;
+    font-size: 75px;
 }
