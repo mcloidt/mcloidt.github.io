@@ -15,11 +15,12 @@ h2{ color: #44c43d;
 }
 h3{ color: #FF6AD4;
     font-family: "Comic Sans MS", cursive, sans-serif;
-    font-size: 100px;
     margin: 125px;
 }
 h4{ line-spacing: 120%;
-    letter-spacing: 120%;
+    letter-spacing: 120%;'    
+    font-size: 100px;
+
 }
 a:visited { 
     font-size: 75px;
