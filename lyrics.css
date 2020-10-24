@@ -22,9 +22,8 @@ h4{ line-spacing: 200%;
     font-size: 100px;
     text-align: right;
         border: 5px;
-
 }
-h5{ line-height: 300px;
+h5{ line-height: 300%;
     Letter-spacing: 75%;
     font-weight: bold;
     max-height: 200px;
