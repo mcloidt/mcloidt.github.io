@@ -21,11 +21,14 @@ h4{ line-spacing: 200%;
     letter-spacing: 200%;   
     font-size: 100px;
     text-align: right;
+        border: 5px;
+
 }
 h5{ line-height: 300px;
     Letter-spacing: 75%;
     font-weight: bold;
     max-height: 200px;
+    border: 5px;
 }
 
 a:visited { 
