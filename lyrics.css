@@ -19,7 +19,6 @@ h3{ color: #FF6AD4;
 }
 h4{ line-spacing: 200%;
     letter-spacing: 75px;   
-    font-size: 100px;
     text-align: right;
         border: 5px;
 }
@@ -28,6 +27,8 @@ h5{ line-height: 250px;
     font-weight: bold;
     margin: 100;
     padding: 100px;
+    font-size: 100px;
+
 }
 
 a:visited { 
