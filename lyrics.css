@@ -18,15 +18,14 @@ h3{ color: #FF6AD4;
     margin: 125px;
 }
 h4{ line-spacing: 200%;
-    letter-spacing: 200%;   
+    letter-spacing: 75px;   
     font-size: 100px;
     text-align: right;
         border: 5px;
 }
-h5{ line-height: 300%;
-    Letter-spacing: 75%;
+h5{ line-height: 250px;
+    Letter-spacing: 50px;
     font-weight: bold;
-    max-height: 200px;
     margin: 100;
     padding: 100px;
 }
